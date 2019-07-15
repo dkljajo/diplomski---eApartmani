@@ -1,2 +1,2 @@
 # diplomski---eApartmani
-portal za iznajmljivanje apartmana (ASP:NET + MS SQL)
+portal za iznajmljivanje apartmana (ASP.NET,MS SQL, HTML, CSS, Javascript)
